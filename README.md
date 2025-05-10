@@ -1,6 +1,6 @@
-### Jogo de tabuleiro - Batalha Naval
+# Jogo de tabuleiro - Batalha Naval
 
-## Como Funciona
+### Como Funciona
 - Primeiramente, o usuário digita as cordenadas do tabuleiro, da linha e da coluna, de uma matriz 10x10(valores de 0-9).
 - Dois navios são declarados explicitamente no código e eles tem 3 posições de tamanho.
 - No tabuleiro da batalha naval:
@@ -11,7 +11,7 @@
 - Quando o usuário erra a posição de um navio "X" é mostrado no tabuleiro, substituindo o "A".
 - Quando o usuário digita uma coordenada inválida que não está entre 0 e 9 ou digita uma coordenada que ja foi digitada antes o programa mostra um erro e pergunta se o usúario quer continuar jogando e digitar outra coordenada ou se deseja sair do game. 
 
-## Detalhes
+### Detalhes
 - Desafio batalha navel - nivel novato.
 - Desafio da matéria "Introdução a Programação de Computadores" do curso de Ciências de Computação da Estácio.
 - Jogo feito em Linguagem C.
